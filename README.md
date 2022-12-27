@@ -12,16 +12,16 @@
 
 ### Tools I use
 
-- [React - Creating UI with React](https://reactjs.org/)
-- [TypeScript - Write Scrictly types JS with TypeScript](https://www.typescriptlang.org/)
-- [Tailwind - Write atomic CSS with Tailwind.css](https://tailwindcss.com/)
-- [Stencil.js - Create Web Components with Stencil.js](https://stenciljs.com/)
-- [Microfrontends- Microfrontends with]
- -  [Webpack5 Module Federation](https://webpack.js.org/concepts/module-federation/)
- -  [StencilJS](https://stenciljs.com/)
-- [Jest/RTL - Testing with Jest/RTL](https://jestjs.io/)
-- [Cypress - Automation with Cypress](https://www.cypress.io/)
-- [Storybook - Develop component in isolation with Storybook](https://storybook.js.org/)
+* [React - Creating UI with React](https://reactjs.org/)
+* [TypeScript - Write Scrictly types JS with TypeScript](https://www.typescriptlang.org/)
+* [Tailwind - Write atomic CSS with Tailwind.css](https://tailwindcss.com/)
+* [Stencil.js - Create Web Components with Stencil.js](https://stenciljs.com/)
+* [Microfrontends- Microfrontends with](www.microfrontends.com)
+ *  [Webpack5 Module Federation](https://webpack.js.org/concepts/module-federation/)
+ *  [StencilJS](https://stenciljs.com/)
+* [Jest/RTL - Testing with Jest/RTL](https://jestjs.io/)
+* [Cypress - Automation with Cypress](https://www.cypress.io/)
+* [Storybook - Develop component in isolation with Storybook](https://storybook.js.org/)
 
 
 ### My favourite study resource
