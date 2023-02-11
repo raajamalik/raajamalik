@@ -5,7 +5,7 @@
 ### About Me
 
 - 👀 I'm working to get [AWS Certification](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
-- 🌱 I’m currently learning [Rust Programming Language](https://www.rust-lang.org/)
+- 🌱 I’m currently learning about [PWA](https://web.dev/learn/pwa/) & [Rust Programming Language](https://www.rust-lang.org/)
 - 💞️ I want to develop my own library which makes testing and data setup very trivial. I am working on the Draft, I call it [ImposeJS](https://docs.google.com/document/d/1iH5IOJvEcFiaDisv9VziH8XiSLbzaVGLou6ruId_24Q/edit). 
 - 📫 You can reach me at my email id rajamalik2006@gmail.com.
 - 😄 Pronouns: he/him
