@@ -1,17 +1,18 @@
 # Raja Malik 
 
-👋 Hi, I’m Raja. I'm a senior Fullstack engineer at [MagicBox](www.getmagicbox.com) and leading the frontend team for rewriting the frontend with new MicroFrontend and brand new component library. Earlier, I was working as a Fullstack Engineer wtih [UKG](www.ukg.com) where I created framework to render UI based on JSON input. 
+👋 Hi, I’m Raja. I'm a senior Fullstack engineer at [MagicBox](www.getmagicbox.com) and leading the team for rewriting the frontend & backend with new MicroFrontend/brand new component library and NodeJS/Express. Earlier, I was working as a Fullstack Engineer wtih [UKG](www.ukg.com) where I created framework to render UI based on JSON input using React/Angular/NodeJS. 
 
 ### About Me
 
 - 👀 I'm working to get [AWS Certification](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
-- 🌱 I’m currently learning about [PWA](https://web.dev/learn/pwa/) & [Rust Programming Language](https://www.rust-lang.org/)
-- 💞️ I want to develop my own library which makes testing and data setup very trivial. I am working on the Draft, I call it [ImposeJS](https://docs.google.com/document/d/1iH5IOJvEcFiaDisv9VziH8XiSLbzaVGLou6ruId_24Q/edit). 
+- 🌱 I’m currently learning about [NestJS](https://docs.nestjs.com/) & [Rust Programming Language](https://www.rust-lang.org/)
+- 💞️ I want to develop my own library which makes testing and data setup very trivial. I am working on the Draft, I call it ImposeJS.
 - 📫 You can reach me at my email id rajamalik2006@gmail.com.
 - 😄 Pronouns: he/him
 
 ### Tools I use
 
+#### Frontend
 * [React - Creating UI with React](https://reactjs.org/)
 * [TypeScript - Write Scrictly types JS with TypeScript](https://www.typescriptlang.org/)
 * [Tailwind - Write atomic CSS with Tailwind.css](https://tailwindcss.com/)
@@ -20,6 +21,16 @@
 * [Jest/RTL - Testing with Jest/RTL](https://jestjs.io/)
 * [Cypress - Automation with Cypress](https://www.cypress.io/)
 * [Storybook - Develop component in isolation with Storybook](https://storybook.js.org/)
+
+#### Backend
+* [NodeJS](https://nodejs.org/en/), [ExpressJS](https://expressjs.com/)
+* [TypeScript - Write Scrictly types JS with TypeScript](https://www.typescriptlang.org/)
+* [NestJS - Write strictly typed server side code](https://nestjs.com/)
+* Microservices with NestJS - 
+* [Jest - Testing with Jest](https://jestjs.io/)
+* [Redis](https://redis.io/) for caching
+* [Splunk](https://www.splunk.com/) for Logging and searching
+* [RabbitMQ](https://www.rabbitmq.com/) for queuing
 
 
 ### My favourite study resource
