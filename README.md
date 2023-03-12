@@ -26,7 +26,7 @@
 * [NodeJS](https://nodejs.org/en/), [ExpressJS](https://expressjs.com/)
 * [TypeScript - Write Scrictly types JS with TypeScript](https://www.typescriptlang.org/)
 * [NestJS - Write strictly typed server side code](https://nestjs.com/)
-* Microservices with NestJS - 
+* [Microservices](https://docs.nestjs.com/microservices/basics) with NestJS
 * [Jest - Testing with Jest](https://jestjs.io/)
 * [Redis](https://redis.io/) for caching
 * [Splunk](https://www.splunk.com/) for Logging and searching
